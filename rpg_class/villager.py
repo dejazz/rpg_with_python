@@ -20,6 +20,7 @@ class Villager:
         return target.check_health(self.attack)
 
 
+
 class Mage(Villager):
     def __init__(self, name):
         super().__init__(name)

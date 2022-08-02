@@ -1,7 +1,6 @@
 from rpg_class.villager import Villager
 from rpg_class.villager import Mage
 
-
 if __name__ == "__main__":
     villager = Villager("Villager")
     mage = Mage("Mage")
